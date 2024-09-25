@@ -1,0 +1,22 @@
+[
+  {
+    "name": "E-Commerce Web",
+    "desc": "Fully-fledged E-commerce website built using HTML, CSS, JavaScript, and Bootstrap, implementing various design patterns.",
+    "image": "e-commerce_web",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ssaratchandraraju.github.io/E-Commerce",
+      "code": "https://github.com/SSaratchandraRaju/E-Commerce.git"
+    }
+  },
+  {
+    "name": "E-Commerce APP",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "E-Commerce_app",
+    "category": "android",
+    "links": {
+      "view": "https://wat-mart.web.app",
+      "code": ""
+    }
+  }
+]
